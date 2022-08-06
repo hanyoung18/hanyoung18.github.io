@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>AI 공부</description>
+    <link>
+    https://hanyoung18.github.io</link>
+    
+      
+      <item>
+        <title>ML 강좌(1)</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;ML 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./ML1&quot;&gt;ML 강좌(1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./ML2&quot;&gt;ML 강좌(2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;이 글은 ML basic2 입니다!!&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 05 Aug 2022 15:10:00 +0900</pubDate>
+        <link>
+        https://hanyoung18.github.io/ML2</link>
+        <guid isPermaLink="true">https://hanyoung18.github.io/ML2</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Python 강좌(1)</title>
+        
+          <description>&lt;p&gt;이 글은 AI basic 입니다!!&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 05 Aug 2022 15:10:00 +0900</pubDate>
+        <link>
+        https://hanyoung18.github.io/AI</link>
+        <guid isPermaLink="true">https://hanyoung18.github.io/AI</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>ML 강좌(1)</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;ML 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./ML1&quot;&gt;ML 강좌(1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./ML2&quot;&gt;ML 강좌(2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;이 글은 ML basic 입니다!!&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 05 Aug 2022 14:10:00 +0900</pubDate>
+        <link>
+        https://hanyoung18.github.io/ML1</link>
+        <guid isPermaLink="true">https://hanyoung18.github.io/ML1</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Python 강좌(1)</title>
+        
+          <description>&lt;p&gt;이 글은 python basic 입니다!!&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 03 Aug 2022 15:10:00 +0900</pubDate>
+        <link>
+        https://hanyoung18.github.io/first</link>
+        <guid isPermaLink="true">https://hanyoung18.github.io/first</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
