@@ -8,6 +8,20 @@
     
       
       <item>
+        <title>Python 강좌(1)</title>
+        
+          <description>&lt;p&gt;이 글은 AI basic 입니다!!&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 05 Aug 2022 15:10:00 +0900</pubDate>
+        <link>
+        https://hanyoung18.github.io/AI</link>
+        <guid isPermaLink="true">https://hanyoung18.github.io/AI</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>ML 강좌(1)</title>
         
           <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;ML 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
@@ -22,20 +36,6 @@
         <link>
         https://hanyoung18.github.io/ML2</link>
         <guid isPermaLink="true">https://hanyoung18.github.io/ML2</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Python 강좌(1)</title>
-        
-          <description>&lt;p&gt;이 글은 AI basic 입니다!!&lt;/p&gt;
-</description>
-        
-        <pubDate>Fri, 05 Aug 2022 15:10:00 +0900</pubDate>
-        <link>
-        https://hanyoung18.github.io/AI</link>
-        <guid isPermaLink="true">https://hanyoung18.github.io/AI</guid>
       </item>
       
     
@@ -62,7 +62,21 @@
       <item>
         <title>Python 강좌(1)</title>
         
-          <description>&lt;p&gt;이 글은 python basic 입니다!!&lt;/p&gt;
+          <description>&lt;p&gt;이 글은 Coding test basic 입니다!!&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 03 Aug 2022 15:10:00 +0900</pubDate>
+        <link>
+        https://hanyoung18.github.io/first</link>
+        <guid isPermaLink="true">https://hanyoung18.github.io/first</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Python 강좌(1)</title>
+        
+          <description>&lt;p&gt;이 글은 Algorithem basic 입니다!!&lt;/p&gt;
 </description>
         
         <pubDate>Wed, 03 Aug 2022 15:10:00 +0900</pubDate>
