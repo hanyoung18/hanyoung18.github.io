@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://hanyoung18.github.io/tag/tools/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://hanyoung18.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-08-08T02:12:45+09:00</updated>
+  <id>https://hanyoung18.github.io/tag/tools/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Computer science | </title>
+  
+
+  
+    <subtitle>AI 공부</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Markdown 문법</title>
+      <link href="https://hanyoung18.github.io/BinarySearch" rel="alternate" type="text/html" title="Markdown 문법" />
+      <published>2022-08-08T01:11:00+09:00</published>
+      <updated>2022-08-08T01:11:00+09:00</updated>
+      <id>https://hanyoung18.github.io/BinarySearch</id>
+      <content type="html" xml:base="https://hanyoung18.github.io/BinarySearch">&lt;h1 id=&quot;markdown-문법&quot;&gt;[Markdown 문법]&lt;/h1&gt;
+
+&lt;h2 id=&quot;내가-보기-위한-마크다운-문법-정리&quot;&gt;내가 보기 위한 마크다운 문법 정리&lt;/h2&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Hanyoung Jeong</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Tools" />
+      
+
+      
+        <summary type="html">[Markdown 문법]</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
