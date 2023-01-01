@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="https://hanyoung18.github.io/author/hanyoung/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://hanyoung18.github.io/" rel="alternate" type="text/html" />
-  <updated>2022-08-08T02:12:45+09:00</updated>
+  <updated>2023-01-01T11:44:29+09:00</updated>
   <id>https://hanyoung18.github.io/author/hanyoung/feed.xml</id>
 
   
@@ -206,7 +206,9 @@
     &lt;li&gt;&lt;a href=&quot;./ML1&quot;&gt;ML 강좌(1)&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./ML2&quot;&gt;ML 강좌(2)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;이 글은 ML basic 입니다!!&lt;/p&gt;</content>
+&lt;p&gt;AI 공부..&lt;/p&gt;
+
+&lt;p&gt;AI로 실제 데이터들을 분석해보니 AI에서 정말 중요한 부분이 데이터라는 것을 깨달았다. 파이프라인 구축..매력적으로 보인다.&lt;/p&gt;</content>
 
       
       
@@ -227,7 +229,7 @@
       
 
       
-        <summary type="html">ML 강좌는 여러 절로 구성되어 있습니다. ML 강좌(1) ML 강좌(2) 이 글은 ML basic 입니다!!</summary>
+        <summary type="html">ML 강좌는 여러 절로 구성되어 있습니다. ML 강좌(1) ML 강좌(2) AI 공부..</summary>
       
 
       
